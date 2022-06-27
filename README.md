@@ -88,13 +88,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
 </details>
 
 <!--
