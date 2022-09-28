@@ -6,3 +6,7 @@
 ###### Header 6
 
 ![Image of Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+
+```
+let myString = "String";
+```
