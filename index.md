@@ -10,3 +10,8 @@
 ```
 let myString = "String";
 ```
+
+## Task List
+- [x] Edit code
+- [x] Commit changes
+- [ ] Merge pull request
